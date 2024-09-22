@@ -1,16 +1,16 @@
-# myapp
+# GDSC_HUST_MOBILE
 
-A new Flutter project.
+## Please recreate the app as closely as possible in the following video.
 
-## Getting Started
+Click on the video to view details.
 
-This project is a starting point for a Flutter application.
+[![challenge](thumbnail.jpg)](challenge.mp4)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Requirements:
+ - Layout like in the video.
+ - Stopwatch.
+ - Press and hold a button for three seconds to activate the stopwatch.
+ - A dialog box appears when the user presses the stop button to confirm if they want to stop: yes -> resume, no -> stop.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### You can use external packages for support and any programming language to make the app.(Recommend Flutter)
